@@ -1,0 +1,3 @@
+C:/Users/32138/Desktop/hfg-thr/singletonOfSpdlog/build/CMakeFiles/edit_cache.dir
+C:/Users/32138/Desktop/hfg-thr/singletonOfSpdlog/build/CMakeFiles/main.dir
+C:/Users/32138/Desktop/hfg-thr/singletonOfSpdlog/build/CMakeFiles/rebuild_cache.dir

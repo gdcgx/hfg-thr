@@ -1,0 +1,20 @@
+[2022-06-20 16:10.42.859][hfg's log][trace   ][main.cpp:main:6] log level trace
+[2022-06-20 16:10.42.861][hfg's log][debug   ][main.cpp:main:7] log level debug
+[2022-06-20 16:10.42.861][hfg's log][warning ][main.cpp:main:8] log level warn
+[2022-06-20 16:10.42.861][hfg's log][info    ][main.cpp:main:9] log level info
+[2022-06-20 16:10.42.861][hfg's log][error   ][main.cpp:main:10] log level error
+[2022-06-20 16:10.42.861][hfg's log][critical][main.cpp:main:11] log level critical
+[2022-06-20 16:10.42.862][hfg's log][trace   ][main.cpp:main:14] it ishello world
+[2022-06-20 16:10.42.862][hfg's log][trace   ][main.cpp:main:15] it is 123456 , hello world
+[2022-06-20 16:10.42.862][hfg's log][trace   ][main.cpp:main:17] it is z
+[2022-06-20 16:10.42.862][hfg's log][trace   ][main.cpp:main:18] *
+[2022-06-20 16:11.24.078][hfg's log][trace   ][main.cpp:main:6] log level trace
+[2022-06-20 16:11.24.079][hfg's log][debug   ][main.cpp:main:7] log level debug
+[2022-06-20 16:11.24.079][hfg's log][warning ][main.cpp:main:8] log level warn
+[2022-06-20 16:11.24.080][hfg's log][info    ][main.cpp:main:9] log level info
+[2022-06-20 16:11.24.080][hfg's log][error   ][main.cpp:main:10] log level error
+[2022-06-20 16:11.24.080][hfg's log][critical][main.cpp:main:11] log level critical
+[2022-06-20 16:11.24.080][hfg's log][trace   ][main.cpp:main:14] it ishello world
+[2022-06-20 16:11.24.081][hfg's log][trace   ][main.cpp:main:15] it is 123456 , hello world
+[2022-06-20 16:11.24.081][hfg's log][trace   ][main.cpp:main:17] it is z
+[2022-06-20 16:11.24.081][hfg's log][trace   ][main.cpp:main:18] *

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/32138/Desktop/hfg-thr/singletonOfSpdlog/build",
+  "command": "\"D:/my c++/M_minge64/MinGW/bin/g++.exe\" -DSTDOUT_FOR_DEBUG @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/main.cpp.obj -c C:/Users/32138/Desktop/hfg-thr/singletonOfSpdlog/main.cpp",
+  "file": "C:/Users/32138/Desktop/hfg-thr/singletonOfSpdlog/main.cpp"
+}
+]
